@@ -1,0 +1,21 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.row.content {height: 450px}
+.sidenav {
+  padding-top: 20px;
+  background-color: #4ddd21;
+  height: 100%;
+}
+.topnav a:hover {
+  background-color: rgb(119, 170, 204);
+  color: rgb(46, 3, 85);
+}
+body{
+  background-image: url("Paper.jpg");
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
